@@ -22,6 +22,7 @@ FullScreenMode=2
 VSyncThreshold=0
 OutputMonitor=0
 [Hud]
+MinimapPoiCompletedIcons=false
 EnemyHitEffects=true
 MinimapTracksWaypoints=false
 ControlsFeedbackModule=false
@@ -119,6 +120,7 @@ ConsentTelemetry=false
 DisableAutomaticSwordSheathe=true
 Difficulty=4
 CrossProgression=true
+AutosaveTimeInterval=7
 HudTutorialEnabled=false
 EnableUberMovement=1
 [LevelOfDetail]
